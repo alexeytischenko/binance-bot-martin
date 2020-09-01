@@ -1,3 +1,5 @@
+#!/home/admin/.pyenv/versions/3.8.2/bin/python
+
 import json
 from exchange_data import ExchangeData
 import bot_log
